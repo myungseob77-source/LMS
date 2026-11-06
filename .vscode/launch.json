@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"name":"LMS: Graph demo","type":"debugpy","request":"launch","module":"lms_engine","args":["--mode","graph"],"console":"integratedTerminal","cwd":"${workspaceFolder}"}]}
